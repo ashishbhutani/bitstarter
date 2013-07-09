@@ -7,7 +7,7 @@ and basic DOM parsing.
 References:
 
  + cheerio
-   - https://github.com/MatthewMueller/cheerio
+   - 
    - http://encosia.com/cheerio-faster-windows-friendly-alternative-jsdom/
    - http://maxogden.com/scraping-with-node.html
 
